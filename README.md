@@ -1,1 +1,1 @@
-# Technical-Interview
+Technical interview questions and my solutions - Data Sceince
